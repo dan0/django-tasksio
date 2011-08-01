@@ -1,0 +1,3 @@
+A time-tracking tool for teams (-templates, for now) which records tasks
+and the time taken, sending time tracking data to harvest for time 
+tracking.  Also gives a month overview, and allows slight customisation.
